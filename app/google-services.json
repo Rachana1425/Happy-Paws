@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "190313430110",
+    "firebase_url": "https://happypaww-4e318.firebaseio.com",
+    "project_id": "happypaww-4e318",
+    "storage_bucket": "happypaww-4e318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190313430110:android:c64c0749ef8986f149c8cf",
+        "android_client_info": {
+          "package_name": "com.example.rachana.happypaww"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190313430110-c51gdh5nccfaidg96kkirugbod9qgb9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rachana.happypaww",
+            "certificate_hash": "15078c3492e8b28b85c641e1006665fda3fe86ae"
+          }
+        },
+        {
+          "client_id": "190313430110-7ocnuuihsmoshbet7q01bdm8uthgfn78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk3ivxS7nQQnHRBtoyjHCie-FxAMztovs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190313430110-7ocnuuihsmoshbet7q01bdm8uthgfn78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

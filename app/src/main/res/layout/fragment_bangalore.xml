@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Bangalore">
+
+    <TextView
+        android:id="@+id/te1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CESSNA LIFELINE"
+        android:textColor="@color/colorAccent"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/te2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        android:text="@string/contact1"
+        android:textSize="15dp"
+        android:autoLink="all"
+        android:scrollbars="vertical"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/te3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INDIRA PET CLINIC"
+        android:layout_marginTop="150dp"
+        android:textColor="@color/colorAccent"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/te4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="180dp"
+        android:text="@string/contact2"
+        android:textSize="15dp"
+        android:autoLink="all"
+        android:scrollbars="vertical"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/te5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="JEEVA PET HOSPITAL"
+        android:layout_marginTop="290dp"
+        android:textColor="@color/colorAccent"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/te6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="320dp"
+        android:autoLink="all"
+        android:text="@string/contact3"
+        android:textSize="15dp"
+        android:scrollbars="vertical"
+        android:textColor="@android:color/black" />
+
+
+</RelativeLayout>

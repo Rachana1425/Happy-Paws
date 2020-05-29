@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/colorBackground"
+    tools:context=".Himalayan">
+
+    <ImageView
+        android:id="@+id/imHim"
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+        app:srcCompat="@drawable/himalaya" />
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignBottom="@+id/imHim"
+        android:layout_marginBottom="-79dp"
+        android:text="HIMALAYAN CAT \n Rs: 45,000/-"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimary"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/tvHim"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:layout_below="@+id/textView3"
+        android:layout_marginTop="90dp"
+        android:textColor="@android:color/black"
+        android:textSize="15sp" />
+
+    <Button
+        android:id="@+id/callButton"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:text="Call Now"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/callTxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="9880549343"
+        android:textColor="@android:color/black"
+        android:visibility="invisible" />
+
+</LinearLayout>

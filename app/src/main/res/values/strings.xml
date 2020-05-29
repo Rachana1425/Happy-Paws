@@ -1,0 +1,248 @@
+<resources>
+    <string name="app_name">HappyPaws</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">ConfirmPassword</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">New to happy paws? Create an account!</string>
+    <string name="text_already_member">Already a Happypaws member? Login!</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Match</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="pugdes">Description\n\n They come in three colors: silver or apricot-fawn with a black face mask, or all black.
+           \n\n* Height: 10-13 inches\n
+           * Weight: 14-18 pounds\n
+           * Life Expectancy: 13-15 years\n
+           * Group: Toy Group\n
+           * Other names: Chinese pug, Dutch mastiff
+    </string>
+
+    <string name="shides">Description\n\n Shih Tzu weighing between 9 to 16 pounds, and standing between 8 and 11 inches, are surprisingly solid for dogs their size. The coat, which comes in many
+colors, is worth the time you will put into it—few dogs are as beautiful as a well-groomed Shih Tzu.\n\n
+    * Height: 9-10.5 inches\n
+    * Weight: 9-16 pounds\n
+    * Life Expectancy: 10-18 years\n
+    * Group: Toy Group</string>
+
+    <string name="bicdes">Description\n\n A good-size Bichon will stand a shade under a foot tall at the shoulder. The breed’s glory is a white hypoallergenic coat, plush and velvety to the touch, featuring
+rounded head hair that sets off the large, dark eyes and black leathers of the nose and lips.\n\n
+    * Height: 9.5-11.5 inches\n
+    * Weight: 12-18 pounds\n
+    * Life Expectancy: 14-15 years\n
+    * Group: Non-Sporting Group</string>
+
+    <string name="bulldes">Description\n\n Kind but courageous, friendly but dignified, the Bulldog is a thick-set, low-slung,
+well-muscled bruiser whose “sourmug” face is the universal symbol of courage and tenacity. These docile, loyal companions adapt well to town or country.
+    \n\n
+    * Height: 14-15 inches\n
+    * Weight: 50 pounds(male), 40 pounds(female)\n
+    * Life Expectancy: 8-10 years</string>
+
+    <string name="daldes">Description\n\nThe dignified Dalmatian, dogdom citizen of the world, is famed for his spotted
+coat and unique job description. During their long history, these "coach dogs" have accompanied the horse-drawn rigs of nobles, gypsies, and firefighters.
+    \n\n
+    * Height: 19-24 inches\n
+    * Weight: 45-70 pounds\n
+    * Life Expectancy: 11-13 years\n
+    * Group: Non-Sporting Group</string>
+
+    <string name="mastdes">Description\n\nFearless at work, docile at home, the Bullmastiff is a large, muscular guarder
+who pursued and held poachers in Merry Old England—merry, we suppose, for everyone but poachers. Bullmastiffs are the result
+of Bulldog and Mastiff crosses.\n\n
+    * Height: 25-27 inches(male), 24-26 inches(female)\n
+    * Weight: 110-130 pounds(male), 100-120 pounds(female)\n
+    * Life Expectancy: 7-9 years\n
+    * Group: Working Group</string>
+
+    <string name="dobdes">Description\n\nDobermans are compactly-built dogs—muscular, fast, and powerful—standing
+between 24 to 28 inches at the shoulder. The body is sleek but substantial, and is covered with a glistening coat of black, blue, red, or fawn, with rust markings.
+        Dobermans have reputation as royalty in the canine kingdom.\n\n
+    * Height: 26-28 inches(male), 24-26 inches(female)\n
+    * Weight: 75-100 pounds(male), 60-90 pounds(female)\n
+    * Life Expectancy: 10-12 years\n
+    * Group: Working Group</string>
+
+    <string name="himdes">Description\n\nThey are one of the most common cat breeds. They are popular by names like Colourpoint
+Persian and Himmie.\n\n
+    Appearance \n
+Himalayan cats are usually white in color and have a long fluffy coat.\n\n
+    Origin \n
+This breed came into existence after crossing Siamese and Persian breeds to get the blue eyes and the different color points.\n\n
+    Temperament\n
+Himalayan cats are very loyal and loving. They crave for human companionship.</string>
+
+    <string name="siades">Description\n\nIf you wish for an all-day companion, a Siamese cat can be perfect for you. This breed is also the
+cheapest.\n\n
+Appearance \n
+They have a medium built, long slender legs, wedge-shaped head with triangular ears, bright
+blue eyes, oval paws, and a long tail. They have an athletic body.\n\n
+Origin\n
+It is one of the common Asian breeds and is derived from cat varieties that are native to Thailand.\n\n
+Temperament \n
+Siamese can be extremely curious, smart, and demanding. They desire a great deal of attention.
+    </string>
+
+    <string name="burdes">Description\n\nThe Burmese thrives on companionship with her humans and other cats. Like
+her Siamese ancestors, she enjoys conversation, but has a much softer, sweeter voice. She’s
+energetic, curious and playful well into adulthood and loves interactive toys and learning new tricks.\n\n
+    Size\n
+Medium, with males weighing from 8 to 12 pounds and females weighing from 6 to 10 pounds\n\n
+    Color\n
+Sable, champagne, blue, platinum</string>
+
+    <string name="amedes">Description\n\nFormerly used to keep rodents and vermin away from food stores, the American Shorthair still
+enjoys exercising her hunting skills on unsuspecting insects. As a smart, moderately active
+feline, she enjoys learning tricks and challenging her intelligence with puzzles and interactive
+toys.\n\nSize\n
+Medium to large, with males weighing 11 to 15 pounds and females weighing 8 to 12 pounds\n\n
+    Color\n
+White, black, blue, red, cream and silver, plus various patterns and shadings</string>
+
+    <string name="faq">
+• Must weigh between 25 and 70 kilograms.\n
+• Should be between the age of 1 and 7 years, because donors are retired after the age of 8.\n
+• Should be vaccinated and periodically dewormed.\n
+• Excellent health condition.</string>
+
+
+    <string name="faq2">
+• Have had a serious health condition.\n
+• Have been sick recently (e.g. coughing, vomiting, diarrhoea).\n
+• Have been diagnosed with a heart problem.\n
+• Have ever had a seizure.\n
+• Have been vaccinated in the past 4 weeks.\n
+• Have received medications other than flea, tick and heartworm prevention in the past 2 weeks.\n
+• Have had or will have surgery within 4 weeks.\n
+• Have ever received a blood transfusion.\n
+• Have donated in the last 6 weeks.\n
+• Females who have been pregnant and not desexed.</string>
+
+    <string name="faq3">
+• Prior to each donation the health status of the donor is evaluated by one of the Blood Bank Staff.\n
+• A small sample of blood is collected to ensure that your pet is able to donate.\n
+• The donor is placed on his or her side on the collection table.\n
+• The owner sits at the donor’s head to alleviate anxiety and provide reassurance.\n
+• Hair is clipped from a small area on the neck and the skin is cleansed with using a skin disinfectant.\n
+• A unit of blood (approx. 450mls) is collected from the jugular vein in the neck area.  The collection process procedure takes approximately 5 minutes.\n
+• Following the collection the needle is removed and pressure is applied to the collection site.\n
+• Donors are rewarded with lots of yummy treats and praise!</string>
+
+    <string name="faq4">
+• Anemia(variety of causes).\n
+• Severe hemorrhage (bleeding) post trauma i.e. hit by a car.\n
+• Blood clotting problems, such as rat bait toxicity.\n
+• Cancers (i.e. where the spleen is removed).\n
+• Septic shock.\n
+• Kidney or liver failure.\n
+• Low blood protein levels.</string>
+
+    <string name="faq5">
+Blood donors can safely donate every 12 weeks, however we generally will only require one collection per pet per year (depending on demand may be more frequent).\n
+The procedure is very safe, and like the belief with human donation there are benefits to new circulating Red blood cells. The blood cells donated will be replaced by the bone marrow over the next few days.\n
+Nevertheless, we recommend that your furry companion be given a few days rest from strenuous exercise after donating blood.\n
+    </string>
+
+    <string name="faq6">
+• On your pet’s 8th birthday.\n
+• Following 3 unsuccessful donation attempts.\n
+• If blood bank staff discover a health concern at donation.\n
+• If there are persistently abnormal blood test results.\n
+    </string>
+
+    <string name="bury1">
+        The normal burial is a period for one year with no construction on the pet grave.
+        This can be renewed after a year or converted to a special burial.
+
+    </string>
+
+    <string name="bury2">
+        The Eco-Friendly construction is for a period of 3 years with an epitaph constructed on the pet grave.
+        This can be renewed after 3 years or converted to extended construction.
+    </string>
+
+    <string name="bury3">
+        The Extended construction is for a period of 5 years with an epitaph constructed on the pet grave and a full cement construction.
+        This can be renewed after 5 years.
+    </string>
+
+    <string name="cremate1">
+Your animal is placed in a chamber that is separate from other animals.
+        With private cremation, they guarantee that you receive only your pet’s ashes.
+    </string>
+
+    <string name="cremate2">
+        You are present at the time of the process.
+        There will likely be a viewing area for you and anyone else who wish to witness.
+        Many people feel that watching helps in the progression of the healing process.
+    </string>
+
+    <string name="cremate3">This type is frequently chosen because the cost is generally lower than the others, sometimes even half the price.
+        Your furry friend is placed into a chamber along with other animals.
+    </string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="contact1">148, HBCS, Amar Jyothi Layout, KGA Road, IntermediateRing Road, Domlur, Bengaluru, KA 560071.\nE-mail: cessnalifeline@gmail.com\nPhone:+917676365365</string>
+
+    <string name="contact2">39/6, 7th Main Road, HAL 2nd Stage, Indiranagar, Opposite Ambedkar College, Motappapalya, Bengaluru, KA 560038\nE-mail: dheerajbk@gmail.com\nPhone:+919845169098</string>
+
+    <string name="contact3">1360,9th Cross Road, Jeewan Sathi Colony, 1st Phase, JP Nagar, Bengaluru, KA 560078\nE-mail: jeevapethospital@gmail.com\nPhone:+918022452428</string>
+
+    <string name="contact4">Door No Near Mount Kailash Apartments, 8.2.414, Road, Number 4, Banjara Hills, Hyderabad, TS 500034\nE-mail: info@animalcareclinic.co.in\nPhone:+914023352474</string>
+
+    <string name="contact5">H.No 8-2-293/82/369, Plot No 369, Road Number 82 Phase 3, Film Nagar, Hyderabad, TS 500096\nE-mail: vetnpet@yahoo.com\nPhone:+914023336111</string>
+
+    <string name="contact6">1-2-217 /2, Road No 10, Gagan Mahal, Domalguda, Hyderabad, TS 500029 Directions\nE-mail: info@vetcarex.com\nPhone:+919550725960</string>
+
+    <string name="contact7">No 7, Teachers Colony, Opposite SBI, Venkata Rathnam Nagar Extension, Kasturba Nagar, Adyar, Chennai, TN 600020\nE-mail: info@jppethospital.com\nPhone:+914424411909</string>
+
+    <string name="contact8">Dev Apartments, Shop No.198A, basement, St Marys Road, Opposite Chruch, Abiramapuram, Chennai, TN 600018\nhttp://skspethospital.com\nPhone:+914442108159</string>
+
+    <string name="contact9">No.SG3, Sri Lakshmi Residency, IOB Colony, 4th Main Road, Camp Road, Tambaram East, Selaiyur, Chennai, TN 600073\nhttps://www.practo.com/chennai/hospital\nPhone:+919444191634</string>
+
+    <string-array name="numbers">
+        <item>1.1</item>
+        <item>1.2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="android_pay">Android Pay. Simple way to pay</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="description_example">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</string>
+    <string name="product_size">Size: 40</string>
+    <string name="product_color">Color: Black</string>
+    <string name="product_price">Price: 80$</string>
+    <string name="action_cart">Shopping cart</string>
+    <string name="quantity">1</string>
+    <string name="product_name">Sleek black top</string>
+    <string name="price">100 $</string>
+    <string name="remove_from_cart">Remove</string>
+    <string name="continue_shopping">Continue shopping</string>
+    <string name="checkout">Checkout</string>
+    <string name="sub_total">Sub total:</string>
+    <string name="server_error">Failed to payment information to server</string>
+    <string name="successful_payment">Payment successfully uploaded</string>
+    <string name="pay_with_paypal">Pay with PayPal</string>
+
+
+</resources>
+
+

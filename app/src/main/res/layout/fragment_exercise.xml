@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5 FUN WAYS TO EXERCISE YOUR DOG"
+            android:gravity="center"
+            android:textColor="#FF6868"
+            android:textSize="35sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="EXERCISE 1"
+            android:textSize="30sp"
+            android:layout_marginTop="30sp"
+            android:gravity="center"
+            android:textColor="@color/colorPrimaryDark"/>
+
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/gifImageView"
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/natural"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="The best forms of exercise for any animal are the activities they would naturally do. For dogs, playing with other dogs fits that definition. Dr. Spelman notes, If you watch a group of dogs in this setting, they create their own games and expend their extra energy they way they choose."
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="50dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="EXERCISE 2"
+            android:textSize="30sp"
+            android:layout_marginTop="30sp"
+            android:gravity="center"
+            android:textColor="@color/colorPrimaryDark"/>
+
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/gifImageView2"
+            android:layout_height="300dp"
+            android:layout_width="match_parent"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/teach"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Don't forget to exercise your dog's brain. After puppyhood and the basic obedience commands have been taught, cognitive challenges tend to drop off. Find some silly, fun behavior to teach your dog, like high fiving or bowing on command or go for more advanced behaviors such as emergency down or command by hand signals."
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="50dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="EXERCISE 3"
+            android:textSize="30sp"
+            android:layout_marginTop="30sp"
+            android:gravity="center"
+            android:textColor="@color/colorPrimaryDark"/>
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/gifImageView3"
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/fetch" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="A simple game of fetch can be all that is needed for your dog's daily exercise fix. Fetch is easy to squeeze into busy schedules, as there is no need to travel far to fit in a game. A close-by park or backyard works great and on rainy days, fetch can be an indoor sport, played from the comfort of your couch."
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="50dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="EXERCISE 4"
+            android:textSize="30sp"
+            android:layout_marginTop="30sp"
+            android:gravity="center"
+            android:textColor="@color/colorPrimaryDark"/>
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/gifImageView4"
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/walking" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="You've traveled this route many times. Your footsteps are on automatic pilot and your dog is tired of smelling the same patches of grass. You continue your daily walks sticking as closely to the same path like a beagle honing in on a scent because your dog needs exercise for his health and as an outlet for pent up energy. Walking is what you are supposed to do with a dog, right? Well, yes, but there's a movement afoot that challenges the traditional ideas of what dogs and humans can do together for fun and physical conditioning. So if you and your canine companion are getting a little bored with the same activities day after day, here are some suggestions to shake up your routine."
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="50dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="EXERCISE 5"
+            android:textSize="30sp"
+            android:layout_marginTop="30sp"
+            android:gravity="center"
+            android:textColor="@color/colorPrimaryDark"/>
+
+        <pl.droidsonroids.gif.GifImageView
+            android:id="@+id/gifImageView5"
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+             android:src="@drawable/dance"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="If you're a fan of Dancing With the Stars, you may want to try dancing with your dog. Based on obedience training, but with more elaborate footwork, movements are choreographed to music as you and your dog go through an original dance routine. Free Style also offers opportunities to strut your stuff in competition."
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="50dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

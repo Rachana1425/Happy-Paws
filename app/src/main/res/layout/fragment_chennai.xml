@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Chennai">
+
+    <TextView
+        android:id="@+id/v1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="JP PET SPECIALITY HOSPITAL"
+        android:textColor="@color/colorAccent"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/v2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="30dp"
+        android:text="@string/contact7"
+        android:autoLink="all"
+        android:textSize="15dp"
+        android:scrollbars="vertical"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/v3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SKS VETERINARY HOSPITAL"
+        android:layout_marginTop="150dp"
+        android:textColor="@color/colorAccent"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/v4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="180dp"
+        android:text="@string/contact8"
+        android:autoLink="all"
+        android:textSize="15dp"
+        android:scrollbars="vertical"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/v5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CAMP ROAD ANIMAL HOSPITAL"
+        android:layout_marginTop="290dp"
+        android:textColor="@color/colorAccent"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/v6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="320dp"
+        android:text="@string/contact9"
+        android:textSize="15dp"
+        android:autoLink="all"
+        android:scrollbars="vertical"
+        android:textColor="@android:color/black" />
+
+</RelativeLayout>
